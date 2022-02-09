@@ -1,0 +1,10 @@
+{
+  "name": "solana-start",
+  "version": "1.0.0",
+  "description": "solana start app",
+  "main": "index.js",
+  "repository": "https://github.com/profmcdan/solana-start.git",
+  "author": "Daniel Ale",
+  "license": "MIT",
+  "private": true
+}
